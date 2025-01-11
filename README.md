@@ -6,6 +6,13 @@
 A trap for profit seekers, for example, you distribute a wallet with $40 Tether in it + password, the victim needs $4 Tron to withdraw Tether, after the Tron enters the wallet, the amount for the wallet is immediately You will be sent!
 `
 
+# Note: 
+
+- Honeypot wallet must have some balance
+- To use, use a new wallet and private key as a honeypot
+- Run when you need it 
+
+
 <img src="https://github.com/user-attachments/assets/4b942809-3423-45d6-aef8-4b314ffce1c0"> 
 
 ## Honeypot Wallet Tool
@@ -18,3 +25,9 @@ Meanwhile, if someone deposits TRON to your Honeypot account (to withdraw Tether
 
 
 <a href="https://t.me/EsfeLurM/213"> Educational video 
+
+
+
+# Warning 
+
+This is a source for educational purposes! Any misuse of the tool is the best! @_@
